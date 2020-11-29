@@ -16,7 +16,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
-[website]: https://www.rohitsthapit.com.np
+[website]: https://nhuzaa.github.io/
 [twitter]: https://twitter.com/nhuzaa
 [youtube]: https://youtube.com/nhuzaa
 [instagram]: https://instagram.com/nhuzaa
