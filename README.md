@@ -1,7 +1,7 @@
 ### Hi there, I'm Rohit - aka [nhuzaa][website] 👋
 
- - Toronto based Software Architect
- - Buidling something 
+ - Toronto based Software Architect | Lead Software Engineer
+ - Building something Stealth mode
 
 ### Languages
 
