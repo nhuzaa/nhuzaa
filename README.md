@@ -33,11 +33,11 @@
 <a href="https://x.com/nhuzaa"><img src="https://img.icons8.com/?size=48&id=uLWV5A9vXIPu&format=png" width="32" alt="Twitter"/></a>
 <a href="https://www.linkedin.com/in/nhuzaa/"><img src="https://img.icons8.com/?size=48&id=13930&format=png" width="32" alt="LinkedIn"/></a>
 <a href="https://github.com/nhuzaa"><img src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png" width="32" alt="GitHub"/></a>
-<a href="https://stackoverflow.com/users/7104332"><img src="https://img.icons8.com/?size=48&id=2nL36Bz8g5iA&format=png" width="32" alt="Stack Overflow"/></a>
-<a href="https://medium.com/@nhuzaa"><img src="https://img.icons8.com/?size=48&id=2AeB5FPhLyo8&format=png" width="32" alt="Medium"/></a>
-<a href="https://www.tiktok.com/@__nhuzaa"><img src="https://img.icons8.com/?size=48&id=dEVVKyXjW4Gn&format=png" width="32" alt="TikTok"/></a>
-<a href="https://www.youtube.com/@nhuzaa"><img src="https://img.icons8.com/?size=48&id=19318&format=png" width="32" alt="YouTube"/></a>
-<a href="https://www.instagram.com/__nhuzaa"><img src="https://img.icons8.com/?size=48&id=32323&format=png" width="32" alt="Instagram"/></a>
+<a href="https://stackoverflow.com/users/7104332"><img src="https://img.icons8.com/?size=48&id=2nL36Bz8g5iA&format=png](https://icons8.com/icon/13955/stack-overflow" width="32" alt="Stack Overflow"/></a>
+<a href="https://medium.com/@nhuzaa"><img src="https://img.icons8.com/?size=48&id=2AeB5FPhLyo8&format=png](https://icons8.com/icon/67875/medium-new" width="32" alt="Medium"/></a>
+<a href="https://www.tiktok.com/@__nhuzaa"><img src="https://icons8.com/icon/118638/tiktok" width="32" alt="TikTok"/></a>
+<a href="https://www.youtube.com/@nhuzaa"><img src="https://icons8.com/icon/19318/youtube" width="32" alt="YouTube"/></a>
+<a href="https://www.instagram.com/__nhuzaa"><img src="https://icons8.com/icon/32323/instagram" width="32" alt="Instagram"/></a>
 
 ---
 
